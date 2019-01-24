@@ -650,7 +650,6 @@ if (message.content.startsWith(prefix + 'help')) { /// This is The DMS Code Send
 『!embed/يكرر الي تقولو بشكل حلو』
 『!discrim/كود يضهر لك الاشخاص نفس تاقك』
 『!emoji <any things>/لتحويل اي كلمه تقولها الي ايموجي』
-『!inv/لدعوة البوت الى سيرفرك』
 『!support/سيرفر الدعم』
 『!contact/ارسال اقتراح او لمراسلة صاحب البوت』
 **
@@ -2909,7 +2908,7 @@ client.on('message', message => {
      let embed = new Discord.RichEmbed()
   .setAuthor(message.author.username)
   .setColor("#9B59B6")
-  .addField(" ** :gear: Server Support :gear: **" , "  **https://discord.gg/yDHQZhC**")
+  .addField(" ** :gear: Server Support :gear: **" , "  **السبورت مقفول حاليا**")
      
      
   message.channel.sendEmbed(embed);
@@ -3115,7 +3114,7 @@ client.on('ready', () => {
 client.user.setGame('System II !help','https://www.twitch.tv/kemo355');
 console.log('Logging into discord..');
 console.log(`
-By Ҝ€₥σ
+By 
 `);
 
 });
